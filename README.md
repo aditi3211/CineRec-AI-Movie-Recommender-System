@@ -3,8 +3,6 @@
 
 CineRec is an interactive web application that recommends movies based on content similarity. This project demonstrates a complete data science pipeline, from raw data cleaning and feature engineering to model building and deployment as a user-friendly web app.
 
-(Replace the URL above with a screenshot of your app. You can upload one to imgur.com)
-
 Features
 
 Content-Based Filtering: Recommends movies by analyzing their plot, genres, keywords, cast, and crew.
